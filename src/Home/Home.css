@@ -2,8 +2,8 @@
 Opcional o reto: hacer un footer en un nuevo componente*/
 
 .banner{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/alan-walker1.jpg?alt=media&token=617cf3b1-44e4-4213-8909-965fa17c3c36");
-    padding: 5% 20% 35% 20%;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/aventura3.jpg?alt=media&token=fa172856-b67b-440c-8936-9a115663f6ef");
+    padding: 20% 20% 35% 20%;
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -16,8 +16,8 @@ Opcional o reto: hacer un footer en un nuevo componente*/
     width:100%;
     background-color: black;
     position:absolute;
-    top:0;
-    left:0;
+    top: 0;
+    left: 0;
     opacity: 0.45;
     z-index: -1;
 }

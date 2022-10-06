@@ -7,13 +7,13 @@ export function Carrusel(){
             <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/alan-walker-fondo-oscuro_2560x1440_xtrafondos.com.jpg?alt=media&token=66d98c6b-1f9c-4cab-85f9-5a28a85d41df" className="w-100" height="800" alt="..."/>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/aventura.jpg?alt=media&token=91baff73-f578-413d-9fdd-9e192547d243" className="w-100" height="800" alt="..."/>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/alan_walker-historia2.jpg?alt=media&token=661a2e62-eed4-4741-bd3f-e5670a1d96c7" className="w-100" height="800" alt="..."/>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/aventura2.jpg?alt=media&token=7b8725a0-3101-43aa-b1d4-fee838a230f3" className="w-100" height="800" alt="..."/>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/Alan-Walker-history4.jpg?alt=media&token=1e844e4f-0d70-42c2-9af0-9ddf5be439a6" className="w-100" height="800" alt="..."/>
+                        <img src="https://firebasestorage.googleapis.com/v0/b/fotosartistasdap.appspot.com/o/aventura3.jpg?alt=media&token=fa172856-b67b-440c-8936-9a115663f6ef" className="w-100" height="800" alt="..."/>
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
