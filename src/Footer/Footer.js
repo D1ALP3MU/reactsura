@@ -17,7 +17,7 @@ export function Footer(){
                         <h4>Redes sociales</h4>
                         <div>
                             <a href="https://github.com/" className="text-white"><i className="bi bi-github fs-1 p-3"></i></a>                        
-                            <a href="https://github.com/" className="text-white"><i className="bi bi-linkedin fs-1 ms-2"></i></a>                        
+                            <a href="https://www.linkedin.com/feed/" className="text-white"><i className="bi bi-linkedin fs-1 ms-2"></i></a>                        
                         </div>
                     </div>
 
