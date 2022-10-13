@@ -47,6 +47,7 @@ export function Albumes(){
                                         <audio src={cancion.preview_url} controls="controls"/>
                                         <div className="card-footer bg-secondary">
                                             <h1 className="text-center">{cancion.album.name}</h1>
+                                            <h3 className="text-center">{cancion.name}</h3>
                                             <h5 className="text-center">{cancion.album.release_date}</h5>
                                         </div>
                                     </div>
